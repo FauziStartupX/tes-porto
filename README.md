@@ -124,6 +124,21 @@ global.mess = {
 
 ## Install/Run
 
+install modules
 ```text
 npm install
 ```
+
+run/jalankan
+```text
+node index.js
+```
+untuk pairing code, kalian bisa masukin ke dalam `config.js` dan kalian juga bisa mengatur kode pairing bot whatsapp di `config.js` juga semalam bot whatsapp
+
+
+## Terimakasih developer
+- [Fauzialifatah](https://ziihost.store)
+- [Kyuurzy](https://github.com/kiuur)
+- [Nauvalsada Apikey](https://ytdlpyton.nvlgroup.my.id/)
+- [ErerexID Apikey](https://ziihost.store)
+- [KrisnaAdy Apikey](https://api.zenitsu.web.id)
