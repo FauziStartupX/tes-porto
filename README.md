@@ -19,8 +19,6 @@ Hallo, saya Fauzialifatah, saya menyediakan script bot WhatsApp yang dikembangka
 | Node | ^24.11.1 |
 | NPM | ^11.6.2 |
 
-### Support JID & LID
-
 <details>
 <summary style="font-weight: bold; cursor: pointer; padding: 8px; border-bottom: 1px solid #eee; margin-bottom: 5px;">config.js</summary>
 <div style="padding: 10px 15px; background: #f9f9f9; border: 1px solid #eee; border-top: none; border-radius: 0 0 5px 5px;">
