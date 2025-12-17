@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://files.catbox.moe/9m2jl1.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hallo+kak%2C+terimakasih+telah+menggunakan+script+Fauzialifatah="70%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=40&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=160&lines=Hallo+kak;terimakasih+telah+menggunakan+script+Fauzialifatah="70%" />
 <br><br>
 
   <a href="https://whatsapp.com/channel/0029Vb6j2u74NViqgNCLev3a">
