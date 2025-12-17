@@ -123,3 +123,7 @@ global.mess = {
 </details>
 
 ## Install/Run
+
+```text
+npm install
+```
