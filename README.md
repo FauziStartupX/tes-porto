@@ -137,8 +137,8 @@ untuk pairing code, kalian bisa masukin ke dalam `config.js` dan kalian juga bis
 
 
 ## Terimakasih developer
-- [Fauzialifatah](https://ziihost.store)
-- [Kyuurzy](https://github.com/kiuur)
+- [Fauzialifatah Owner Sc](https://ziihost.store)
+- [Kyuurzy Bailyes](https://github.com/kiuur)
 - [Nauvalsada Apikey](https://ytdlpyton.nvlgroup.my.id/)
 - [ErerexID Apikey](https://ziihost.store)
 - [KrisnaAdy Apikey](https://api.zenitsu.web.id)
