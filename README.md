@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://files.catbox.moe/s39ehu.png" />
   <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=22C55E&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Fauzialifatah%2C+WhatsApp+Bot+Developer" />
 
   <a href="https://whatsapp.com/channel/0029Vb6j2u74NViqgNCLev3a">
