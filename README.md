@@ -28,8 +28,23 @@ import fs from "fs";
 import chalk from "chalk";
 
 /** info id **/
-global.owner = ["628xxx","999999@lid"];
+global.owner = ["628xx","99xx@lid"]; // wajib ada lid dan jid
 global.mode = false;
+
+global.nauvalApiKey = "", // https://ytdlpyton.nvlgroup.my.id/docs
+global.velynApiKey = ""; //https://velyn.mom
+
+/** pairing Code Settings **/
+global.pairingPhoneNumber = "628xx"; 
+global.customPairingCode = "12345678"; 
+
+/** settings panel **/
+global.egg = "15"; // Isi id egg
+global.nestid = "5"; // Isi id nest
+global.loc = "1"; // Isi id location
+global.domain = ""
+global.apikey = ""; // Isi api ptla
+global.capikey = ""; // Isi api ptlc
 
 /** nama bot **/
 global.namebotz = "Alifatah wabot !";
