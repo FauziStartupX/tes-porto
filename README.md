@@ -11,6 +11,8 @@
 <a href="https://github.com/Alifatahfauzi"><img title="Author" src="https://img.shields.io/badge/OWNER-Fauzialifatah-green.svg?style=for-the-badge&logo=github"></a>
 </div>
 
+Hallo, saya Fauzialifatah, saya menyediakan script bot WhatsApp yang dikembangkan menggunakan Node.js dengan Type Module (ESM), ditulis menggunakan bahasa pemrograman JavaScript dengan struktur kode yang rapi, modern, dan mudah dikembangkan, dirancang secara modular agar mudah dipahami, dikustomisasi, dan dikembangkan kembali, dilengkapi dengan sistem command yang fleksibel, fitur manajemen panel, serta tampilan pesan interaktif dan profesional, sehingga cocok digunakan untuk kebutuhan developer bot WhatsApp, pengelola panel, pembelajaran, maupun pengembangan project private dan public.
+
 ## Requirements
 | Requirement | Version |
 | ---|---|
