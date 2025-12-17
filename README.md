@@ -6,3 +6,9 @@
   </a>
 
 </div>
+
+## Requirements
+| Requirement | Version |
+| ---|---|
+| Node | ^24.11.1 |
+| NPM | ^11.6.2 |
