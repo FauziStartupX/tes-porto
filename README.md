@@ -7,6 +7,8 @@
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
 
+<p align="center">
+<a href="https://github.com/ArifzynXD"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ArifzynXD-green.svg?style=for-the-badge&logo=github"></a>
 </div>
 
 ## Requirements
