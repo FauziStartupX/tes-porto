@@ -142,3 +142,11 @@ untuk pairing code, kalian bisa masukin ke dalam `config.js` dan kalian juga bis
 - [Nauvalsada Apikey](https://ytdlpyton.nvlgroup.my.id/)
 - [ErerexID Apikey](https://ziihost.store)
 - [KrisnaAdy Apikey](https://api.zenitsu.web.id)
+  
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alifatahfauzi&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&hide_border=true)
+
+</div>
