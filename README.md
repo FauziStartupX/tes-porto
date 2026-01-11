@@ -19,6 +19,13 @@ Hallo, saya Fauzialifatah, saya menyediakan script bot WhatsApp yang dikembangka
 | Node | ^24.11.1 |
 | NPM | ^11.6.2 |
 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+> [!Note]
+> jika bot tidak stabill mohon ganti bailyes
+
+
 ## Upgrade script
 <details>
 <summary style="font-weight: bold; cursor: pointer; padding: 8px; border-bottom: 1px solid #eee; margin-bottom: 5px;">config.js</summary>
