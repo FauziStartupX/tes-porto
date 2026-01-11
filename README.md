@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=22C55E&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Fauzialifatah%2C+Script+Bot+Whatsapp" />
-  <img src="https://files.catbox.moe/q9a7wp.jpg" />
+  <img src="https://files.catbox.moe/qr4d9g.jpg" />
   <a href="https://whatsapp.com/channel/0029Vb6j2u74NViqgNCLev3a">
     <img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
@@ -26,7 +26,6 @@ Hallo, saya Fauzialifatah, saya menyediakan script bot WhatsApp yang dikembangka
 > [!Note]
 > Jika bot WhatsApp sering tidak stabil seperti sering disconnect, delay, atau tidak merespon perintah, penyebab utamanya biasanya berasal dari library Baileys yang digunakan, karena Baileys harus terus menyesuaikan diri dengan update WhatsApp dan versi standar sering kurang optimal untuk bot dengan banyak fitur atau plugin, sehingga rawan reconnect loop dan session error; sebagai solusi, disarankan mengganti Baileys biasa dengan fork yang lebih stabil seperti @whiskeysockets/baileys karena lebih sering dipatch, lebih tahan untuk penggunaan jangka panjang, dan lebih cocok untuk sistem bot besar, meskipun tetap perlu dipahami bahwa tidak ada library WhatsApp non-resmi yang benar-benar 100% stabil, namun pemilihan Baileys yang tepat serta pengelolaan bot yang baik dapat mengurangi masalah secara signifikan
 
-
 ## Upgrade script
 <details>
 <summary style="font-weight: bold; cursor: pointer; padding: 8px; border-bottom: 1px solid #eee; margin-bottom: 5px;">config.js</summary>
@@ -37,14 +36,16 @@ import fs from "fs";
 import chalk from "chalk";
 
 /** info id **/
-global.owner = ["628xx","99xx@lid"]; // wajib ada lid dan jid
+global.owner = ["6282199509537","210780402241764@lid"];
 global.mode = false;
 
-global.nauvalApiKey = "", // https://ytdlpyton.nvlgroup.my.id/docs
-global.velynApiKey = ""; //https://velyn.mom
+/** apikey **/
+global.velynApiKey = "-";
+global.anaApiKey = "-";
+global.termaiApikey = "-";
 
 /** pairing Code Settings **/
-global.pairingPhoneNumber = "628xx"; 
+global.pairingPhoneNumber = "6285211997125"; 
 global.customPairingCode = "12345678"; 
 
 /** settings panel **/
@@ -56,7 +57,7 @@ global.apikey = ""; // Isi api ptla
 global.capikey = ""; // Isi api ptlc
 
 /** nama bot **/
-global.namebotz = "Alifatah wabot !";
+global.namebotz = "rche x pauzi";
 global.packname = 'www.ziihost.store';
 global.nameown = "Fauzialifatah | Projects";
 global.author = 'https://www.github.com/Alifatahfauzi';
@@ -72,9 +73,11 @@ global.ChannelWA = "https://whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z";
 global.mess = {
     group: "ngapain? khusus grup njrr",
     admin: "ngapain? khusus admin njrr",
+    private: "ngapain? khusu private njirr",
     owner: "apalah, bukan owner",
     botadmin: "bot bukan admin"
 }
+
 ```
 </div>
 </details>
@@ -132,9 +135,15 @@ global.mess = {
 
 ## Install/Run
 
+clone repository
+```text
+git clone https://github.com/Alifatahfauzi/Simple-bot
+cd simple
+```
+
 install modules
 ```text
-npm install
+node index.js
 ```
 
 run/jalankan
@@ -144,17 +153,5 @@ node index.js
 untuk pairing code, kalian bisa masukin ke dalam `config.js` dan kalian juga bisa mengatur kode pairing bot whatsapp di `config.js` juga semalam bot whatsapp
 
 
-## Terimakasih developer
+## Support
 - [Fauzialifatah Owner Sc](https://ziihost.store)
-- [Kyuurzy Bailyes](https://github.com/kiuur)
-- [Nauvalsada Apikey](https://ytdlpyton.nvlgroup.my.id/)
-- [ErerexID Apikey](https://ziihost.store)
-- [KrisnaAdy Apikey](https://api.zenitsu.web.id)
-  
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alifatahfauzi&bg_color=0d1117&color=3fb950&line=3fb950&point=3fb950&area=true&hide_border=true)
-
-</div>
